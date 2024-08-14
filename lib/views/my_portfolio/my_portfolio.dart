@@ -37,9 +37,10 @@ class _MyPortfolioState extends State<MyPortfolio> {
     Project(
       image: AppAssets.work6,
       title: 'Portfolio Website',
-      description: 'A personal portfolio website to showcase projects.',
-      url: 'https://github.com/sayedmostaf/my-portfolio',
-      type: 'Web Development',
+      description:
+          'A Flutter-based news app that fetches and displays the latest news. Users can browse different categories and stay updated with current events.',
+      url: 'https://github.com/sayedmostaf/NewsApp',
+      type: 'App Development',
     ),
     Project(
       image: AppAssets.work3,
