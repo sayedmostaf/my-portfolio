@@ -14,6 +14,7 @@ class AppAssets {
   static String work3 = 'assets/images/work3.png';
   static String work4 = 'assets/images/work4.png';
   static String work5 = 'assets/images/work5.png';
+  static String work6 = 'assets/images/work6.png';
   static String share = 'assets/images/share.png';
   static String codeforces = 'assets/images/codeforces.png';
   static String upwork = 'assets/icons/upwork.png';

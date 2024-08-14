@@ -35,10 +35,10 @@ class _MyPortfolioState extends State<MyPortfolio> {
       type: 'App Development',
     ),
     Project(
-      image: AppAssets.work1,
+      image: AppAssets.work6,
       title: 'Portfolio Website',
       description: 'A personal portfolio website to showcase projects.',
-      url: 'https://github.com/username/portfolio_website',
+      url: 'https://github.com/sayedmostaf/my-portfolio',
       type: 'Web Development',
     ),
     Project(
